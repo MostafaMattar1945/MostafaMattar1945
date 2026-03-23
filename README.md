@@ -72,13 +72,13 @@
           <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35" alt="Data Engineering gif">
          </td>
         <td valign="middle">
-          <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" width="40" alt="Apache Kafka" title="Apache Kafka" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="Apache Spark" title="Apache Spark" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Apache Kafka" title="Apache Kafka" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
           <img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="40" alt="GitHub" title="GitHub" />
-          <img src="https://img.icons8.com/color/48/000000/airflow.png" width="40" alt="Apache Airflow" title="Apache Airflow" />
-          <img src="https://img.icons8.com/color/48/000000/google-bigquery.png" width="40" alt="BigQuery" title="BigQuery" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="40" alt="Apache Airflow" title="Apache Airflow" />
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlebigquery.svg" width="40" alt="BigQuery" title="BigQuery" />
           <img src="https://avatars.githubusercontent.com/u/2297209?s=200&v=4" width="40" alt="dbt" title="dbt" />
          </td>
      </tr>
