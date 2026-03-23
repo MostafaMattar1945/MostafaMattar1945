@@ -65,35 +65,34 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" title="C" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL" title="SQL" />
-         </td>
+        </td>
      </tr>
      <tr>
         <td align="center" valign="middle" width="50">
           <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35" alt="Data Engineering gif">
-         </td>
+        </td>
         <td valign="middle">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Apache Kafka" title="Apache Kafka" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
           <img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="40" alt="GitHub" title="GitHub" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="40" alt="Apache Airflow" title="Apache Airflow" />
+          <img src="https://cdn.simpleicons.org/apacheairflow" width="40" alt="Apache Airflow" title="Apache Airflow" />
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlebigquery.svg" width="40" alt="BigQuery" title="BigQuery" />
           <img src="https://avatars.githubusercontent.com/u/2297209?s=200&v=4" width="40" alt="dbt" title="dbt" />
-         </td>
+        </td>
      </tr>
      <tr>
         <td align="center" valign="middle" width="50">
           <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Tools gif">
-         </td>
+        </td>
         <td valign="middle">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" title="Jupyter" />
           <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" alt="Azure" title="Azure" />
-         </td>
+        </td>
      </tr>
 </table>
-
 ---
 
 ## 📌 Featured Projects
